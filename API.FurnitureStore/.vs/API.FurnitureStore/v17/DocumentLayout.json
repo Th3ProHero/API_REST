@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E00467B-C430-41C5-9221-D07D394AEA90}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|d:\\work\\api\\api.furniturestore\\api.furniturestore\\api.furniturestore.api\\controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E00467B-C430-41C5-9221-D07D394AEA90}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|solutionrelative:api.furniturestore.api\\controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E00467B-C430-41C5-9221-D07D394AEA90}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|d:\\work\\api\\api.furniturestore\\api.furniturestore\\api.furniturestore.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E00467B-C430-41C5-9221-D07D394AEA90}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|solutionrelative:api.furniturestore.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E00467B-C430-41C5-9221-D07D394AEA90}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|d:\\work\\api\\api.furniturestore\\api.furniturestore\\api.furniturestore.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E00467B-C430-41C5-9221-D07D394AEA90}|API.FurnitureStore.API\\API.FurnitureStore.API.csproj|solutionrelative:api.furniturestore.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A358456E-AB7D-4186-9573-160C6383F542}|API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj|d:\\work\\api\\api.furniturestore\\api.furniturestore\\api.furniturestore.shared\\auth\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A358456E-AB7D-4186-9573-160C6383F542}|API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj|solutionrelative:api.furniturestore.shared\\auth\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A358456E-AB7D-4186-9573-160C6383F542}|API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj|d:\\work\\api\\api.furniturestore\\api.furniturestore\\api.furniturestore.shared\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A358456E-AB7D-4186-9573-160C6383F542}|API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj|solutionrelative:api.furniturestore.shared\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A358456E-AB7D-4186-9573-160C6383F542}|API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj|d:\\work\\api\\api.furniturestore\\api.furniturestore\\api.furniturestore.shared\\dtos\\userregistrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A358456E-AB7D-4186-9573-160C6383F542}|API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj|solutionrelative:api.furniturestore.shared\\dtos\\userregistrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A358456E-AB7D-4186-9573-160C6383F542}|API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj|d:\\work\\api\\api.furniturestore\\api.furniturestore\\api.furniturestore.shared\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A358456E-AB7D-4186-9573-160C6383F542}|API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj|solutionrelative:api.furniturestore.shared\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFB06880-E237-46A3-B050-37B43A2CC31B}|API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj|d:\\work\\api\\api.furniturestore\\api.furniturestore\\api.furniturestore.data\\apifurniturestorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB06880-E237-46A3-B050-37B43A2CC31B}|API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj|solutionrelative:api.furniturestore.data\\apifurniturestorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB06880-E237-46A3-B050-37B43A2CC31B}|API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj|d:\\work\\api\\api.furniturestore\\api.furniturestore\\api.furniturestore.data\\migrations\\20240609063413_adding identity to the api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB06880-E237-46A3-B050-37B43A2CC31B}|API.FurnitureStore.Data\\API.FurnitureStore.Data.csproj|solutionrelative:api.furniturestore.data\\migrations\\20240609063413_adding identity to the api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,10 +34,6 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:833303092:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
             },
             {
@@ -41,54 +41,71 @@
               "Name": "ST:471218599:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:2019276874:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductCategoriesController.cs",
-              "DocumentMoniker": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers\\ProductCategoriesController.cs",
-              "RelativeDocumentMoniker": "API.FurnitureStore.API\\Controllers\\ProductCategoriesController.cs",
-              "ToolTip": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers\\ProductCategoriesController.cs",
-              "RelativeToolTip": "API.FurnitureStore.API\\Controllers\\ProductCategoriesController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAA7wBMAAAARAAAA",
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "API.FurnitureStore.API\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "API.FurnitureStore.API\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAABAwEwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T00:37:14.774Z",
+              "WhenOpened": "2024-06-09T06:49:50.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegistrationRequestDto.cs",
+              "DocumentMoniker": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\DTOs\\UserRegistrationRequestDto.cs",
+              "RelativeDocumentMoniker": "API.FurnitureStore.Shared\\DTOs\\UserRegistrationRequestDto.cs",
+              "ToolTip": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\DTOs\\UserRegistrationRequestDto.cs",
+              "RelativeToolTip": "API.FurnitureStore.Shared\\DTOs\\UserRegistrationRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:47:47.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ClientsController.cs",
-              "DocumentMoniker": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers\\ClientsController.cs",
-              "RelativeDocumentMoniker": "API.FurnitureStore.API\\Controllers\\ClientsController.cs",
-              "ToolTip": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers\\ClientsController.cs",
-              "RelativeToolTip": "API.FurnitureStore.API\\Controllers\\ClientsController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBEAAAAJAAAA",
+              "Title": "AuthResult.cs",
+              "DocumentMoniker": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\Auth\\AuthResult.cs",
+              "RelativeDocumentMoniker": "API.FurnitureStore.Shared\\Auth\\AuthResult.cs",
+              "ToolTip": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\Auth\\AuthResult.cs",
+              "RelativeToolTip": "API.FurnitureStore.Shared\\Auth\\AuthResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T00:33:33.395Z",
+              "WhenOpened": "2024-06-09T06:45:07.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Client.cs",
-              "DocumentMoniker": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\Client.cs",
-              "RelativeDocumentMoniker": "API.FurnitureStore.Shared\\Client.cs",
-              "ToolTip": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\Client.cs",
-              "RelativeToolTip": "API.FurnitureStore.Shared\\Client.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIA0wAsAAAAWAAAA",
+              "DocumentIndex": 4,
+              "Title": "20240609063413_Adding Identity to the API.cs",
+              "DocumentMoniker": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Data\\Migrations\\20240609063413_Adding Identity to the API.cs",
+              "RelativeDocumentMoniker": "API.FurnitureStore.Data\\Migrations\\20240609063413_Adding Identity to the API.cs",
+              "ToolTip": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Data\\Migrations\\20240609063413_Adding Identity to the API.cs",
+              "RelativeToolTip": "API.FurnitureStore.Data\\Migrations\\20240609063413_Adding Identity to the API.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAcwFMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T18:22:37.197Z"
+              "WhenOpened": "2024-06-09T06:34:14.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\Product.cs",
-              "RelativeDocumentMoniker": "API.FurnitureStore.Shared\\Product.cs",
-              "ToolTip": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Shared\\Product.cs",
-              "RelativeToolTip": "API.FurnitureStore.Shared\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "APIFurnitureStoreContext.cs",
+              "DocumentMoniker": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Data\\APIFurnitureStoreContext.cs",
+              "RelativeDocumentMoniker": "API.FurnitureStore.Data\\APIFurnitureStoreContext.cs",
+              "ToolTip": "D:\\Work\\API\\API.FurnitureStore\\API.FurnitureStore\\API.FurnitureStore.Data\\APIFurnitureStoreContext.cs",
+              "RelativeToolTip": "API.FurnitureStore.Data\\APIFurnitureStoreContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvx0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T04:57:40.484Z"
+              "WhenOpened": "2024-06-09T06:22:40.981Z"
             }
           ]
         }

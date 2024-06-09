@@ -17,6 +17,7 @@ namespace API.FurnitureStore.Shared
         public DateTime orderDate { get; set; }
 
         public DateTime deliveryDate { get; set; }
+        public List<OrderDetail> OrderDetails { get; set; }
 
     }
 }

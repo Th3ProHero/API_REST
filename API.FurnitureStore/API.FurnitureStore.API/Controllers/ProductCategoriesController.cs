@@ -32,6 +32,12 @@ namespace API.FurnitureStore.API.Controllers
             
         }
 
+        [HttpGet("GetByCategory/{productCategoryId}")]
+        public async Task<IEnumerable<Product>> GetByCategory(int productCategoryId)
+        {
+            return await _context.Products.Where(p => p.ProductCategoryId == productCategoryId).ToListAsync();
+        }
+
         [HttpPost]
         public async Task<IActionResult> Post(ProductCategory category)
         {
@@ -47,6 +53,7 @@ namespace API.FurnitureStore.API.Controllers
             await _context.SaveChangesAsync();
             return NoContent();
         }
+
         [HttpDelete]
         public async Task<IActionResult> Delete(ProductCategory category)
         {

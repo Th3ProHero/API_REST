@@ -11,6 +11,7 @@ namespace API.FurnitureStore.Shared
         public int ID { get; set; }
         public string name { get; set; }
         public decimal price { get; set; }
-        public int productCategory {  get; set; }
+        public int ProductCategoryId { get; set; }
+        public List<OrderDetail> OrderDetails { get; set; }
     }
 }
